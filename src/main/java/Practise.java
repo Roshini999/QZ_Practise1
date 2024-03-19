@@ -3,7 +3,7 @@ package com.qualizeal.javaapp.company;
 
 import com.qualizeal.javaapp.company.csif.ControlStatements;
 
-public class Program {
+public class Practise {
 
 	public static void main(String [] args) {
 

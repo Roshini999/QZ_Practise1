@@ -69,7 +69,7 @@
  	<artifactId>exec-maven-plugin</artifactId>
  	<version>3.0.0</version>
  	<configuration>
- 	 <mainClass>com.qualizeal.javaapp.company.Program</mainClass>
+ 	 <mainClass>com.qualizeal.javaapp.company.Practise</mainClass>
  	</configuration>
 	</plugin>
       </plugins>
